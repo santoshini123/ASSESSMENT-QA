@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/dugana.santoshini/Downloads/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/dugana.santoshini/Downloads/selenium-server-4.0.0-alpha-4 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/dugana.santoshini/.p2/pool/plugins/org.eclipse.emf.codegen_2.19.0.v20190821-1536.jar" sourcepath="C:/Users/dugana.santoshini/.p2/pool/plugins/org.eclipse.emf.codegen.source_2.19.0.v20190821-1536.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/jet/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/jmerge/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/merge/java/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/merge/java/facade/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/merge/java/facade/ast/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/merge/java/facade/jdom/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/merge/properties/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/emf/codegen/util/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dugana.santoshini/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
