@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="webpage.webpage.webTest">
+        <methods>
+          <include name="button_searchTest"/>
+          <include name="mainTestString6"/>
+          <include name="GooglesearchTest"/>
+          <include name="mainTestString5"/>
+          <include name="mainTestString4"/>
+          <include name="mainTestString3"/>
+          <include name="mainTestString2"/>
+          <include name="mainTestString1"/>
+          <include name="testbox_searchTest"/>
+        </methods>
+      </class> <!-- webpage.webpage.webTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
